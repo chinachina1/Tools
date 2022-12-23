@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "readlogfile": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\admin\\Downloads\\log(2).txt"
+    }
+  }
+}

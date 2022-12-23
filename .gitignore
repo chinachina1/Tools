@@ -30,7 +30,6 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
-*.sln
 *.suo
 *.tmp
 *.user
@@ -58,3 +57,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+readlogfile/readlogfile/readlogfile/bin/
+readlogfile/readlogfile/readlogfile/obj/
